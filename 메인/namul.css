@@ -7,10 +7,12 @@
     position: relative;
     background-color: #9BC3FF;
     font-size:40px;
-    height:50px;
-    text-align: center;
+    height:55px;
+    
     padding-top:3%;
     font-family:조선일보명조;
+    display: flex;
+    text-align: center;
 }
 body{
     background-color:#FFEFD5;
@@ -79,4 +81,24 @@ footer{
 }
 .me{
     font-family:조선일보명조;
+}
+.main{
+position: relative;
+left: 30%;
+bottom:100%;
+}
+.one{
+position: relative;
+bottom: 100%;
+left: 40%;
+}
+.two{
+position: relative;
+bottom: 100%;
+left: 50%;
+}
+.three{
+position: relative;
+bottom: 100%;
+left:60%;
 }
