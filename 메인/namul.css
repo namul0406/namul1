@@ -29,12 +29,13 @@ a {
     top:500px;
     text-align: center;
     font-family:조선일보명조;
+    height:50px;
 }
 .history{
     position: relative;
     font-size:25px;
     top:550px;
-    font-family: 'Spoqa Han Sans Neo 얇은체', 'sans-serif';
+    
     font-family:조선가는고딕;
     
 }
@@ -42,11 +43,11 @@ a {
 
 .누구인가{
     position: relative;
-    bottom:45%;
+    bottom:70%;
 }
 footer{
     position: relative;
-    top:40%;
+    top:30%;
     background-color: #9BC3FF;
     width:140%;
     right:20%;
@@ -54,7 +55,28 @@ footer{
     font-family: 조선가는고딕;
     padding:5% 0%;
 }
-img{
+.image{
    height:450px;
    width:1410px;
+}
+.me{
+    background-color:#9BC3FF;
+    font-family:조선일보명조;
+    height:50px;
+    font-size:35px;
+    text-align: center;
+}
+.ppp{
+    width:50px;
+    border-radius: 50%;
+}
+.설명{
+    position: relative;
+    left:45%;
+    font-family:조선가는고딕;
+    font-size:30px;
+    bottom:35%;
+}
+.me{
+    font-family:조선일보명조;
 }
