@@ -44,19 +44,22 @@ footer{
    width:1410px;
 }
 .me{
+    position: relative;
     background-color:#9BC3FF;
     font-family:조선일보명조;
     height:50px;
     font-size:35px;
     text-align: center;
+    bottom:73%;
 }
 
 .설명{
     position: relative;
-    left:45%;
+    left:15%;
     font-family:조선가는고딕;
     font-size:30px;
-    bottom:35%;
+    bottom:10%;
+    
 }
 .me{
     font-family:조선일보명조;
@@ -81,3 +84,77 @@ position: relative;
 bottom: 100%;
 left:60%;
 }
+#iptimg{
+    display: flex;
+    }
+    
+    .iptimg1{
+    text-align: center;
+    margin-top: -35% ;
+    margin-left: 20%;
+    display: none;
+    }
+    .iptimg2{
+    display: none;
+    text-align: center;
+    margin-top: -35% ;
+    margin-left: 20%;
+    }
+    .iptimg3{
+    display: none;
+    text-align: center;
+    margin-top: -35% ;
+    margin-left: 20%;
+    }
+    .iptimg4{
+        display: none;
+        text-align: center;
+        margin-top: -35% ;
+        margin-left: 20%;
+        }
+        .iptimg5{
+            display: none;
+            text-align: center;
+            margin-top: -35% ;
+            margin-left: 20%;
+            }
+            .iptimg6{
+                display: none;
+                text-align: center;
+                margin-top: -35% ;
+                margin-left: 20%;
+                }
+                .iptimg7{
+                    display: none;
+                    text-align: center;
+                    margin-top: -35% ;
+                    margin-left: 20%;
+                    }
+                    .iptimg8{
+                        display: none;
+                        text-align: center;
+                        margin-top: -35% ;
+                        margin-left: 20%;
+                        }
+                        .iptimg9{
+                            display: none;
+                            text-align: center;
+                            margin-top: -35% ;
+                            margin-left: 20%;
+                            }
+                            .iptimg10{
+                                display: none;
+                                text-align: center;
+                                margin-top: -35% ;
+                                margin-left: 20%;
+                                }
+                                #container1{
+    
+                                    position: relative;
+                                    left: 20%;
+                                    overflow: auto;
+                                    width: 600px;
+                                    margin-right: 20%;
+                                    margin-top: 10%;
+                                    bottom:60px;
+                                }

@@ -44,19 +44,23 @@ footer{
    width:1410px;
 }
 .me{
+    position: relative;
     background-color:#9BC3FF;
     font-family:조선일보명조;
     height:50px;
     font-size:35px;
     text-align: center;
+    bottom:40%;
+    width: 104%;
 }
 
 .설명{
     position: relative;
-    left:45%;
+    left:0%;
     font-family:조선가는고딕;
     font-size:30px;
     bottom:35%;
+    
 }
 .me{
     font-family:조선일보명조;
@@ -80,4 +84,15 @@ left: 50%;
 position: relative;
 bottom: 100%;
 left:60%;
+}
+.team{
+    position: relative;
+    right: 0%;
+    width:60%
+}
+.pro{
+    position: relative;
+    width:44%;
+    left: 60%;
+    bottom:40%;
 }
