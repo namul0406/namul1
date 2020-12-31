@@ -1,0 +1,83 @@
+.container{
+    margin:0 auto;
+    width:1040px;
+    height:800px;
+}
+.title{
+    position: relative;
+    background-color: #9BC3FF;
+    font-size:40px;
+    height:55px;
+    
+    padding-top:3%;
+    font-family:조선일보명조;
+    display: flex;
+    text-align: center;
+}
+body{
+    background-color:#FFEFD5;
+}
+a { 
+    position: relative;
+    bottom:25%;
+    text-decoration:none ;
+    color:black;
+    
+} 
+
+
+
+
+
+footer{
+    position: relative;
+    top:30%;
+    background-color: #9BC3FF;
+    width:140%;
+    right:20%;
+    text-align: center;
+    font-family: 조선가는고딕;
+    padding:5% 0%;
+}
+.image{
+   height:450px;
+   width:1410px;
+}
+.me{
+    background-color:#9BC3FF;
+    font-family:조선일보명조;
+    height:50px;
+    font-size:35px;
+    text-align: center;
+}
+
+.설명{
+    position: relative;
+    left:45%;
+    font-family:조선가는고딕;
+    font-size:30px;
+    bottom:35%;
+}
+.me{
+    font-family:조선일보명조;
+}
+.main{
+position: relative;
+left: 30%;
+bottom:100%;
+}
+.one{
+position: relative;
+bottom: 100%;
+left: 40%;
+}
+.two{
+position: relative;
+bottom: 100%;
+left: 50%;
+}
+.three{
+position: relative;
+bottom: 100%;
+left:60%;
+}

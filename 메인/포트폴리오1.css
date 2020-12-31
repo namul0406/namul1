@@ -1,0 +1,192 @@
+.container{
+    margin:0 auto;
+    width:1040px;
+    height:800px;
+}
+.title{
+    position: relative;
+    background-color: #9BC3FF;
+    font-size:40px;
+    height:55px;
+    
+    padding-top:3%;
+    font-family:조선일보명조;
+    display: flex;
+    text-align: center;
+}
+body{
+    background-color:#FFEFD5;
+}
+a { 
+    position: relative;
+    bottom:25%;
+    text-decoration:none ;
+    color:black;
+    
+} 
+
+
+
+
+
+footer{
+    position: relative;
+    top:30%;
+    background-color: #9BC3FF;
+    width:140%;
+    right:20%;
+    text-align: center;
+    font-family: 조선가는고딕;
+    padding:5% 0%;
+}
+.image{
+   height:450px;
+   width:1410px;
+}
+.me{
+    position: relative;
+    bottom:45%;
+    background-color:#9BC3FF;
+    font-family:조선일보명조;
+    height:50px;
+    font-size:35px;
+    text-align: center;
+
+}
+
+.설명{
+    text-align: left;
+    position: relative;
+    left:0%;
+    font-family:조선가는고딕;
+    font-size:30px;
+    bottom:0%;
+}
+.me{
+    font-family:조선일보명조;
+}
+.main{
+position: relative;
+left: 30%;
+bottom:100%;
+}
+.one{
+position: relative;
+bottom: 100%;
+left: 40%;
+}
+.two{
+position: relative;
+bottom: 100%;
+left: 50%;
+}
+.three{
+position: relative;
+bottom: 100%;
+left:60%;
+}
+.inner-container1 {
+    margin: 0px auto;
+    width: 100%;
+    
+ }
+  #content1,#content2,#content3 {
+      margin-top: 5%;
+      margin-left: 10%;
+  }
+ .gallery1 {
+     margin-top: 1%;
+     display: flex;
+     justify-content: center;
+ }
+ .gallery2 {
+    margin-top: 1%;
+   display: flex;
+   justify-content: center;
+   
+}
+.gallery3 {
+    margin-top: 1%;
+   display: flex;
+   justify-content: center;
+   
+}
+
+
+ .gallery1 img,.gallery2 img,.gallery3 img{
+    width: 500px;
+    height: 270px;
+    border-top: 1px solid black;
+    margin-right: 5%;
+ }
+
+ 
+
+#container1{
+    
+    
+overflow: auto;
+width: 490px;
+height: 300px;
+margin-right: 20%;
+margin-top: 10%;
+
+}
+#iptimg{
+display: flex;
+}
+
+.iptimg1{
+text-align: center;
+margin-top: -35% ;
+margin-left: 20%;
+display: none;
+}
+.iptimg2{
+display: none;
+text-align: center;
+margin-top: -35% ;
+margin-left: 20%;
+}
+.iptimg3{
+display: none;
+text-align: center;
+margin-top: -35% ;
+margin-left: 20%;
+}
+.iptimg4{
+    display: none;
+    text-align: center;
+    margin-top: -35% ;
+    margin-left: 20%;
+    }
+    .iptimg5{
+        display: none;
+        text-align: center;
+        margin-top: -35% ;
+        margin-left: 20%;
+        }
+        .iptimg6{
+            display: none;
+            text-align: center;
+            margin-top: -35% ;
+            margin-left: 20%;
+            }
+            .iptimg7{
+                display: none;
+                text-align: center;
+                margin-top: -35% ;
+                margin-left: 20%;
+                }
+                .iptimg8{
+                    display: none;
+                    text-align: center;
+                    margin-top: -35% ;
+                    margin-left: 20%;
+                    }
+                    .iptimg9{
+                        display: none;
+                        text-align: center;
+                        margin-top: -35% ;
+                        margin-left: 20%;
+                        }
